@@ -9,7 +9,7 @@ A simple mobile app built with **Expo (React Native)** that fetches random jokes
 ### Setup
 
 ```bash
-cd frontend
+cd client
 npm install
 npx expo start
 ```
@@ -19,6 +19,7 @@ npx expo start
 ### Setup
 
 ```bash
+cd backend
 npm install
 node index.js
 ```

@@ -13,3 +13,12 @@ cd frontend
 npm install
 npx expo start
 ```
+
+## 📱 Backend (Express)
+
+### Setup
+
+```bash
+npm install
+node index.js
+```
